@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wohlgemuth-Dev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c, c++, python, java
+- 🌱 I’m currently learning c, go, python, java
 - 📫 How to reach me: wohlgemuth.dev@gmail.com
 - ⚡ Fun fact: ...
 
